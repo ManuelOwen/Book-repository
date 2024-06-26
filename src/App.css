@@ -13,7 +13,7 @@ body {
   max-width: 800px;
   margin: 0 auto;
   padding: 20px;
-  background-color: #fff;
+  background-color:grey;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   border-radius: 8px;
   margin-top: 50px;
@@ -22,7 +22,7 @@ body {
 /* Header */
 h1 {
   text-align: center;
-  color: #333;
+  color: #faf4f4;
   margin-bottom: 20px;
 }
 
@@ -43,7 +43,7 @@ h1 {
 
 .form-container button {
   padding: 10px 20px;
-  background-color: #007bff;
+  background-color: #0be1e9;
   color: #fff;
   border: none;
   border-radius: 4px;
@@ -86,7 +86,7 @@ h1 {
 .book-item input {
   padding: 5px;
   margin-right: 5px;
-  border: 1px solid #ddd;
+  border: 1px solid black;
   border-radius: 4px;
 }
 
@@ -106,7 +106,7 @@ h1 {
 }
 
 .book-item .delete-button {
-  background-color: #dc3545;
+  background-color: #f0051c;
 }
 
 .book-item .delete-button:hover {
@@ -114,7 +114,7 @@ h1 {
 }
 
 .book-item .edit-button {
-  background-color: #ffc107;
+  background-color: #6d3d06;
   color: #fff;
 }
 
@@ -130,7 +130,7 @@ h1 {
 
 .pagination button {
   padding: 10px 20px;
-  background-color: #007bff;
+  background-color: #16da0f;
   color: #fff;
   border: none;
   border-radius: 4px;
@@ -139,5 +139,5 @@ h1 {
 }
 
 .pagination button:hover {
-  background-color: #0056b3;
+  background-color: #69f70b;
 }
